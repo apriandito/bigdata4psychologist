@@ -11,12 +11,12 @@ library(tidyverse)
 # Auth --------------------------------------------------------------------
 
 # Masukkan API key dari News API
-news_api <- "___"
+news_api <- "f2b2e3f10bee4668ba146f9bdff912fd"
 
 # Set Keyword -------------------------------------------------------------
 
 # Tentukan Kata Kunci
-keyword <- "Ferdy Sambo"
+keyword <- "Bjorka"
 
 # Collect News ------------------------------------------------------------
 
